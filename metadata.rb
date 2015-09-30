@@ -1,0 +1,10 @@
+name              'ms_dotnet46'
+maintainer        'Erick Thompson'
+maintainer_email  'erickt@payscale.com'
+license           'Apache 2.0'
+license           'All rights reserved'
+description       'Installs Microsoft .NET 4.6'
+long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
+version           '1.0.0'
+supports          'windows'
+depends           'windows'
